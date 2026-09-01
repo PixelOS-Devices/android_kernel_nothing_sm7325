@@ -34,6 +34,23 @@
       "parentUuid": "f17e07b5_44884640",
       "revId": "3c98b7d59b5f09bccc968ac69238b97e2784701c",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c5d38ddf_e49e9e5b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2026-09-01T09:49:30Z",
+      "side": 1,
+      "message": "Make Glyph read from the persist file directly instead.",
+      "revId": "3c98b7d59b5f09bccc968ac69238b97e2784701c",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
